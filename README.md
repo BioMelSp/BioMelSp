@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BioMelSp
+- 👋 Hi, I’m @SpKdigit
 - 👀 I’m interested in Life Science.
 - 🌱 I’m currently learning Biotechnology.
 - 💞️ I’m looking to collaborate on ...
